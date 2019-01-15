@@ -2,8 +2,8 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Test2"
-    url: /testone.md/
+  - title: "Test1"
+    url: /fakeit/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
