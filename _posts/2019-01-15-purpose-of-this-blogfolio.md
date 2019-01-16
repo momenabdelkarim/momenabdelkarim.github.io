@@ -6,7 +6,7 @@ tags:
   - intro
   - thoughts
   - standard
-- meta
+  - meta
 --- 
 
 Whenever I have thoughts on a subject or life experience, I usually mull it over in private, write it in a journal, or try to discuss it with a friend. I’ve realized now, after looking back at my past few years in school, that I should document my thoughts and journey through life as a public record to track my personal (and writing skill) growth over time. And in case others are asking questions about the same topics or going through similar experiences, they can hear the thoughts of another (real) human online! These posts could be book summaries, the tech I use, why I do things a certain way, how to cook a dish, or about something I’m doing irl.
