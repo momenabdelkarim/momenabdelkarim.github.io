@@ -110,11 +110,7 @@ author:
   avatar           : "/assets/images/bio-photo.png"
   bio              : "Computer Science student at Arizona State University, Class of 2020/2021. Sharing my thoughts and journey through college and life."
   location         : "Phoenix, AZ"
-  email            : "momen.abdelkarim@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:momen.abdelkarim@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -127,6 +123,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/momenabdelkarim"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:momen.abdelkarim@gmail.com
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -287,7 +286,6 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
       author_profile: true
       read_time: true
       share: true
